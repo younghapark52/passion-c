@@ -3,6 +3,10 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
   <Project Path="chapter01/chapter01.vcxproj" Id="3564dc79-b30f-4e6d-ac59-af98e16771f8" />
   <Project Path="chapter02/chapter02.vcxproj" Id="d7d33dbd-ec94-4054-a180-aa5dd5d1977b" />
+  <Project Path="chapter03/chapter03.vcxproj" Id="317738ad-4350-4bf6-a357-89b4f1b19c84" />
 </Solution>
